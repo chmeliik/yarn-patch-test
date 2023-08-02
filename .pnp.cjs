@@ -28,16 +28,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["is-positive", "https://github.com/kevva/is-positive.git#commit=97edff6f525f192a3f83cea1944765f769ae2678"]\
+            ["is-positive", "patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch::version=3.1.0&hash=a1df78&locator=yarn-patch-test%40workspace%3A."]\
           ],\
           "linkType": "SOFT"\
         }]\
       ]],\
       ["is-positive", [\
-        ["https://github.com/kevva/is-positive.git#commit=97edff6f525f192a3f83cea1944765f769ae2678", {\
-          "packageLocation": "./.yarn/cache/is-positive-https-aa81db6e97-cc3d3247d5.zip/node_modules/is-positive/",\
+        ["patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch::version=3.1.0&hash=a1df78&locator=yarn-patch-test%40workspace%3A.", {\
+          "packageLocation": "./.yarn/cache/is-positive-patch-bc093e5d18-d091c00beb.zip/node_modules/is-positive/",\
           "packageDependencies": [\
-            ["is-positive", "https://github.com/kevva/is-positive.git#commit=97edff6f525f192a3f83cea1944765f769ae2678"]\
+            ["is-positive", "patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch::version=3.1.0&hash=a1df78&locator=yarn-patch-test%40workspace%3A."]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["yarn-patch-test", "workspace:."],\
-            ["is-positive", "https://github.com/kevva/is-positive.git#commit=97edff6f525f192a3f83cea1944765f769ae2678"]\
+            ["is-positive", "patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch::version=3.1.0&hash=a1df78&locator=yarn-patch-test%40workspace%3A."]\
           ],\
           "linkType": "SOFT"\
         }]\

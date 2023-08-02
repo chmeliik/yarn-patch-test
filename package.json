@@ -6,6 +6,6 @@
     "is-positive": "github:kevva/is-positive"
   },
   "resolutions": {
-    "is-positive@github:kevva/is-positive": "patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch"
+    "is-positive": "patch:is-positive@https%3A//github.com/kevva/is-positive.git%23commit=97edff6f525f192a3f83cea1944765f769ae2678#./.yarn/patches/is-positive-https-aa81db6e97.patch"
   }
 }
