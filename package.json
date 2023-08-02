@@ -1,4 +1,8 @@
 {
   "name": "yarn-patch-test",
-  "packageManager": "yarn@3.6.1"
+  "bin": "index.js",
+  "packageManager": "yarn@3.6.1",
+  "dependencies": {
+    "is-positive": "github:kevva/is-positive"
+  }
 }
